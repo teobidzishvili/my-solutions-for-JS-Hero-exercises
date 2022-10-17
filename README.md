@@ -2,7 +2,7 @@
 
 
 [26. String: replace()](https://www.jshero.net/en/koans/replace.html)
-    > function normalize(date){
-       let slash = date.replaceAll('-', '/');
-       return slash;
-       }
+        'function normalize(date){
+          let slash = date.replaceAll('-', '/');
+          return slash;
+        }'
