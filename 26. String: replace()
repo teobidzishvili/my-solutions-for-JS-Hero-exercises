@@ -1,0 +1,4 @@
+function normalize(date){
+  let slash = date.replaceAll('-', '/');
+  return slash;
+}
